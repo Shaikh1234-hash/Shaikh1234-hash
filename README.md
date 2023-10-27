@@ -21,9 +21,5 @@ Skills: JS / HTML / CSS / Python / C++ / JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shaikh1234-hash)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Shaikh1234-hash&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Shaikh1234-hash)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Shaikh1234-hash)  
 
