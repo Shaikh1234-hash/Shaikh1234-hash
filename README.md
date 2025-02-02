@@ -1,4 +1,4 @@
-[![Watch the video]([https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg](https://github.com/Shaikh1234-hash/Intro.git)]
+[![Watch the video]([https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg](Hello.mp4)]
 
 ### Hallo 👋, I am Asif Morshid
 #### Full Stack Developer
