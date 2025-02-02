@@ -5,8 +5,8 @@
 https://github.com/user-attachments/assets/1cbba0af-1931-46df-b0b0-4b288301b3b3
 
 
-### Hallo 👋, I am Asif Morshid
-#### Full Stack Developer
+
+#### I am..
 
 👨‍💻 Software Developer | ML Enthusiast 🤖
 
