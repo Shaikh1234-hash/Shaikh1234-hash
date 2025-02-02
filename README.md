@@ -1,4 +1,4 @@
-![Full Stack Developer](https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/340229209_256640356703328_7751336861484944268_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHns0w-Z5rroO5IZsorDr5hbyVYyfP8Rk1vJVjJ8_xGTTImVIdDFyp4Wra3Z_ckAkFtX3QIAPPDIYZDlHPmN0JK&_nc_ohc=ntjww-9BZSwAX9Bzepf&_nc_oc=AQlfxObkYM8-698t1k08jpyO7bx0YHFi3jaa1Vk7YqLfS4i5o_ElLG45Z-nyVZOAX-M&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfDkf79Ct83eK_uY0xiWeDXfZFKLhdR8PyXxe5XRPs8_hQ&oe=653FBBD4)
+[Full Stack Developer]
 
 ### Hallo 👋, I am Asif Morshid
 #### Full Stack Developer
