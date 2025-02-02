@@ -6,9 +6,7 @@ https://github.com/user-attachments/assets/1cbba0af-1931-46df-b0b0-4b288301b3b3
 
 
 
-#### I am..
-
-👨‍💻 Software Developer | ML Enthusiast 🤖
+###👨‍💻 Software Developer | ML Enthusiast 🤖
 
 Hey there! I’m a passionate developer combining software engineering with machine learning to build smart, scalable solutions 🚀. I love working on projects that bring AI to life, whether it's automating tasks, making predictions, or improving user experiences 🌟.
 
